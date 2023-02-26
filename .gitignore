@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.web
+pynecone.db
+
+#misc
+.idea/
+python_env/
